@@ -1,11 +1,11 @@
 # Site settings
-author: Matthew Robinson
-title: 
+author: Matthew Robinson 
+title: Coding Journey 
 header-img: img/home-bg.png
 email: matt_robinson1@yahoo.com
-copyright_name: Matthew Robinson
+copyright_name: Matthew Robinson 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  There can be no end without a beginning 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MattRob77
