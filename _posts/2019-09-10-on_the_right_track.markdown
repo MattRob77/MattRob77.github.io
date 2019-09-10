@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "On the Right Track..."
-date:       2019-09-10 19:51:38 +0000
+date:       2019-09-10 15:51:39 -0400
 permalink:  on_the_right_track
 ---
 
