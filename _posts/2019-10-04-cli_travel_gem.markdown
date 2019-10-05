@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "CLI Travel Gem..."
-date:       2019-10-05 02:43:26 +0000
+date:       2019-10-04 22:43:27 -0400
 permalink:  cli_travel_gem
 ---
 
 ![](http://media.giphy.com/media/FTELxTvVLJqRq/giphy.gif)
 
-It's finally time to use the skills I have learned to build a project from cratch. 
+It's finally time to use the skills I have learned to build a project from scratch. 
 
 The details of the CLI would include the following: 
 1. Provide data from website via scraping 
