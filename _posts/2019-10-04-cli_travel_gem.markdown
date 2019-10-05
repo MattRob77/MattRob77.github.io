@@ -33,6 +33,7 @@ One of the biggest obstacles in this project was finding a website that was not 
 ![](http://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif)
 
 **Scraping**
+
 Scraping at first can be challenging. I found that the more that I practiced it the easier that it got. Also, learning a bit of html helped me to understand the layout and scructure of a webpage. I'm going to say this time and time again "PRY" is your bestfriend! The ability to be able to pull on specific information and find out what index they are at made my work less stressful.  
 
 After I ran my tests what I found was that my CLI gem was pulling more information than I needed. A bit stressful at first until I realized I could check the indexes to figure out which exact piece of data I was looking for. Below is a brief example of me using the index to gather the correct information and refracturing my code. 
