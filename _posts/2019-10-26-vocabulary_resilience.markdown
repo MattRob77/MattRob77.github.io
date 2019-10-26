@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Vocabulary Resilience..."
-date:       2019-10-26 23:23:50 +0000
+date:       2019-10-26 19:23:51 -0400
 permalink:  vocabulary_resilience
 ---
 
 
-What a relief and a lot of satification I got from completing my first project. I wanted to be honest in this post and show that even though there may be doubts about completing a project you can succeed! 
+What a relief and a lot of satisfaction I got from completing my first project. I wanted to be honest in this post and show that even though there may be doubts about completing a project you can succeed! 
 
 ![](http://giphygifs.s3.amazonaws.com/media/qiewqF2IEg1qM/giphy.gif)
 
