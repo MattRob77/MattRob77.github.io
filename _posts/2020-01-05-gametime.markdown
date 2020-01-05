@@ -1,0 +1,25 @@
+---
+layout: post
+title:      "Gametime! "
+date:       2020-01-05 15:17:31 +0000
+permalink:  gametime
+---
+
+
+The holidays are over and the last section of Javascript is about to begin. As I look back over these past few weeks I feel more determined to finish strong and make this my career choice. I might not fully feel ready to tackle my javascript project, but I have some ideas moving forward that I' m confident will come out looking great. The end of break week is the start of a greater future ahead for not only myself, but the rest of my cohort. 
+
+![](https://media.giphy.com/media/UatRnEUNX8iCQ/giphy.gif) 
+
+As I gear up for the next section of Javascript I wanted to cover some of the information that has helped me thus far. 
+
+* Creating a backend and frontend folder " Helps with the structure of my application" 
+* Using npx reload -b "Node server helps where I don't have to keep refreshing my page in production" 
+* Running two servers one on ruby LocalHost:3000 Javascript LocalHost:8080 
+* Practicing making a basic skeleton of an application " index.js, db.json, index.css, index.html" 
+* Going back over cohort videos taking notes of anything that I may have missed "Remember it's not about memorization" 
+
+![](https://media.giphy.com/media/AuyGh03025K2k/giphy.gif) 
+
+I hope my checklist will help future and current students with this project. I believe we have a great cohort and I'm looking forward to where all of us end up in our career choice. We are almost there! 
+
+
