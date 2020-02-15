@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Mix and Match "
-date:       2020-02-15 22:52:14 +0000
+date:       2020-02-15 17:52:14 -0500
 permalink:  the_mix_and_match
 ---
 
@@ -27,7 +27,7 @@ Here is the checklist I used in building out this application:
 
 The reason I named this blog post Mix and Match was because I ran into some issues gathering resources from mulitple places. The first issue I found was  that gathering information from multiple sources caused my syntax in my code to get weird. I can't stress enough the importance of finding your own style when creating your application.  For instance I had been using CSS for the entirety of my coding journey up until this project when I decided it was a good idea to try SASS out. If you want to check it out google it for the sake of this post I won't go in depth, but basically you can group together CSS. 
 
-The next issue I ran into was done when I started to build my front end first. I decided this was the route to go because I'm a visual person and it helped me to build out the projects in the past. The problem with this project was that I forgot one key ingredient in building out a good app and that is making sure I have all the migrations set up and  schema. I did not add email for my user only username and password, however in my front end i had email for a user to log in. 
+The next issue I ran into was done when I started to build my front end first. I decided this was the route to go because I'm a visual person and it helped me to build out the projects in the past. The problem with this project was that I forgot one key ingredient in building out a good app and that is making sure I have all the migrations set up and the schema. I did not add email for my user only username and password, however in my front end I had email for a user to log in. 
 
 ![](https://media.giphy.com/media/R2m2NzVxQ3pbG/giphy.gif)
 
